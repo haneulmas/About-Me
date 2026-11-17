@@ -1,6 +1,3 @@
-# About-Me
-self-introduction
-
 <h1 align="center">Hi, I'm Haneul</h1>
 
 <p align="center">
